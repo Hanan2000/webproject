@@ -1,0 +1,30 @@
+
+.navbar-brand:hover{
+
+    color: white;
+
+}
+.navbar navbar-inverse{
+
+    color: #313131;
+
+}
+footer {
+    background-color: #313131;
+    padding: 20px 15px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+
+}
+
+.footer_section p {
+    margin: 0;
+    text-align: center;
+    color: #ffffff;
+}
+
+.footer_section a {
+    color: #313131;
+}
+
